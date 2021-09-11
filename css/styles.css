@@ -1,0 +1,81 @@
+/* Font Families:
+font-family: 'Abril Fatface', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Rokkitt', serif;
+*/
+
+h1{
+  
+  margin-top: 0;
+  padding-top: 48px;
+  font-family: 'Parisienne', cursive;
+
+}
+
+h2{
+    font-family: 'Abril Fatface', cursive;
+}
+
+h3{
+    font-family: 'Rokkitt', serif;
+}
+
+.profile_pic{
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.skills_pic{
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.contacts_pic{
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+   position: absolute;
+   margin-left: 156px; 
+}
+body {
+    background-color: #ffc2b4;
+
+    /*Setting all margin properties for the body to be 0 */
+    margin: 0;
+    text-align: center; 
+    font-family: 'Rokkitt', serif;
+/* sets font family to the entire body as Sans-Serif. Ask the browser to display text using verdana font*/
+
+}
+
+.top-container {
+    background-color: #9dbeb9;
+    position: relative;
+    padding-top: 100px;
+  
+}
+
+.profile_text{
+    font-size: 11px;
+}
+.profile{
+
+}
+
+
+.middle-container{
+   
+}
+.bottom-container{
+    
+}
+
